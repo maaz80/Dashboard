@@ -1,0 +1,17 @@
+body {
+  background-color: #121212;
+  color: #ffffff;
+  font-family: 'Arial', sans-serif;
+}
+
+h2, h3 {
+  color: #ffffff;
+}
+
+.App {
+  padding: 20px;
+}
+
+.chart-container {
+  margin: 20px 0;
+}
